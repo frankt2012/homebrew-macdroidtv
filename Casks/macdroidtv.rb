@@ -7,7 +7,7 @@ cask "macdroidtv" do
   desc "Native macOS menu bar app and desktop widget for Google TV / Android TV"
   homepage "https://github.com/frankt2012/MacDroidTV"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "MacDroid TV.app"
 
