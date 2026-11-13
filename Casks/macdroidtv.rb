@@ -1,8 +1,8 @@
 cask "macdroidtv" do
-  version "1.2.3"
-  sha256 "ab6960358125d5fce3cedd30fb77771902362d74fd75672034ab6b79375da0fd"
+  version "1.2.4"
+  sha256 "1539eb5dd28956ff557ba12eb2a1a9d39a1645af389e773e8b7ab88d8de28e61"
 
-  url "https://github.com/frankt2012/MacDroidTV/releases/download/v1.2.3/MacDroidTV-#{version}.dmg"
+  url "https://github.com/frankt2012/MacDroidTV/releases/download/v1.2.4/MacDroidTV-#{version}.dmg"
   name "MacDroid TV"
   desc "Native macOS menu bar app and desktop widget for Google TV / Android TV"
   homepage "https://github.com/frankt2012/MacDroidTV"
